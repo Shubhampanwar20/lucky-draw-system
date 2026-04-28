@@ -4,7 +4,7 @@ A simple Lucky Draw System built using React where users can register, add score
 
 ## 🚀 Features
 - User Registration
-- Add Score
+- Add Score system
 - Random Winner Selection
 - Clean UI with animations
 
